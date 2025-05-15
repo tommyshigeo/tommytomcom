@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-director-dark text-director-light;
+    /* font-family: theme('fontFamily.sans'); */ /* If you set a custom font */
+  }
